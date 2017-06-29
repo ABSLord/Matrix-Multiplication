@@ -7,11 +7,6 @@
 
 int main()
 {
-    //example
-    //int c1=clock();
-    //int c2=clock();
-    //printf("time without threads: %.3f\n", (double)(c2-c1)/ CLOCKS_PER_SEC);
-
     int n = 700;
     int min = 1;
     int max = 100;
